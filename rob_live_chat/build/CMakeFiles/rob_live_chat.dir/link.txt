@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/rob_live_chat.dir/main.cpp.o  -o rob_live_chat -rdynamic 
